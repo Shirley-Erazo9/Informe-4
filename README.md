@@ -60,7 +60,11 @@ SECCIÓN 7–2 ANÁLISIS DE CIRCUITOS RESISTIVOS EN SERIE-PARALELO.
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-4/blob/main/EJE6.1.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-4/blob/main/EJ6.2.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-4/blob/main/EJE6.3.png)
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
